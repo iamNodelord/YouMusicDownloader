@@ -1,0 +1,16 @@
+# Build artifacts
+dist/
+dist_onedir/
+dist_nuitka/
+build/
+*.spec
+__pycache__/
+*.py[cod]
+
+# Bundled FFmpeg binary (prepared by prepare_ffmpeg.py)
+vendor/
+
+# Runtime leftovers
+selftest.txt
+crash_*.log
+*.mp3
