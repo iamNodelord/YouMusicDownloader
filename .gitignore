@@ -14,3 +14,7 @@ vendor/
 selftest.txt
 crash_*.log
 *.mp3
+
+# Local artifacts
+*.zip
+release_notes.md
