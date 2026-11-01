@@ -1,4 +1,4 @@
-# YouMusic Downloader
+# YouMusicDownloader
 
 A Windows desktop app (Tkinter) that turns **YouTube**, **SoundCloud** and **Apple Music** links into **MP3 320 kbps** files.
 
